@@ -1,0 +1,43 @@
+
+##### Popular Sites for Data Science News and Communities
+
+ 1. Medium
+ 2. Analytics Vidhya
+ 3. Data Science Central
+ 4. Towards AI
+ 
+##### Practise on a Daily Basis
+
+1. Visualization
+
+2. Python - Pandas - Intreview (data - to find - groupby, sort_col)
+
+3. SQL  - Groupby , Joins (Cross join) -2 Tables, TRuncate or Delete diff
+
+4. Business Communication  - Data Story Telling
+		1. Projects
+	`	2. Any algorithms
+		3 Any situational Questions
+
+5. Resume - Build Your resume in such a way that it remains - Crack the first line
+
+6 .  Interview - HR Round (Never get confused  - Because they are Hrs)
+
+7. LinkedIn Profile - Try to share 2 blogs in a week on anything related to Data Sciece
+	Gets Views
+	Gets Opportunity - Fromk differnt Organisation  - Blogs
+        Visualisation - Python (What are benefits you are giving who are viewing that blogs)
+One Liners - 
+
+Profile - Experience in Data Projects
+1. Predictive Analytics
+2. Expert in Tableau Viusals and reports
+3. Start interacting with HRS - 1 minutes video of your resume
+
+8. Profile  - Github |(Which will help you to get Freelancing)
+	1. Freelancer.com
+`	2. Quora (15 Projects Quora  - paid - 40,000 -  dashboard) - Free 10-15 Porjects
+	3. Fever
+	4. Upwork
+ 
+
